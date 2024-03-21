@@ -1,0 +1,142 @@
+{
+    "A": {
+        "keycode": 65,
+        "dvorak": "A"
+    },
+    "B": {
+        "keycode": 66,
+        "dvorak": "X"
+    },
+    "C": {
+        "keycode": 67,
+        "dvorak": "J"
+    },
+    "D": {
+        "keycode": 68,
+        "dvorak": "E"
+    },
+    "E": {
+        "keycode": 69,
+        "dvorak": "."
+    },
+    "F": {
+        "keycode": 70,
+        "dvorak": "U"
+    },
+    "G": {
+        "keycode": 71,
+        "dvorak": "I"
+    },
+    "H": {
+        "keycode": 72,
+        "dvorak": "D"
+    },
+    "I": {
+        "keycode": 73,
+        "dvorak": "C"
+    },
+    "J": {
+        "keycode": 74,
+        "dvorak": "H"
+    },
+    "K": {
+        "keycode": 75,
+        "dvorak": "T"
+    },
+    "L": {
+        "keycode": 76,
+        "dvorak": "N"
+    },
+    "M": {
+        "keycode": 77,
+        "dvorak": "M"
+    },
+    "N": {
+        "keycode": 78,
+        "dvorak": "B"
+    },
+    "O": {
+        "keycode": 79,
+        "dvorak": "R"
+    },
+    "P": {
+        "keycode": 80,
+        "dvorak": "L"
+    },
+    "Q": {
+        "keycode": 81,
+        "dvorak": "'"
+    },
+    "R": {
+        "keycode": 82,
+        "dvorak": "P"
+    },
+    "S": {
+        "keycode": 83,
+        "dvorak": "O"
+    },
+    "T": {
+        "keycode": 84,
+        "dvorak": "Y"
+    },
+    "U": {
+        "keycode": 85,
+        "dvorak": "G"
+    },
+    "V": {
+        "keycode": 86,
+        "dvorak": "K"
+    },
+    "W": {
+        "keycode": 87,
+        "dvorak": ","
+    },
+    "X": {
+        "keycode": 88,
+        "dvorak": "Q"
+    },
+    "Y": {
+        "keycode": 89,
+        "dvorak": "F"
+    },
+    "Z": {
+        "keycode": 90,
+        "dvorak": ";"
+    },
+    ";": {
+        "keycode": 186,
+        "dvorak": "S"
+    },
+    "=": {
+        "keycode": 187,
+        "dvorak": "]"
+    },
+    ",": {
+        "keycode": 188,
+        "dvorak": "W"
+    },
+    "]": {
+        "keycode": 221,
+        "dvorak": "="
+    },
+    "'": {
+        "keycode": 222,
+        "dvorak": "-"
+    },
+    "-": {
+        "keycode": 189,
+        "dvorak": "["
+    },
+    ".": {
+        "keycode": 190,
+        "dvorak": "V"
+    },
+    "/": {
+        "keycode": 191,
+        "dvorak": "Z"
+    },
+    "[": {
+        "keycode": 219,
+        "dvorak": "/"
+    }
+}

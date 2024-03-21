@@ -1,0 +1,232 @@
+{
+    "remapKeys": {
+        "inProcess": [
+        ]
+    },
+    "remapKeysToText": {
+        "inProcess": [
+        ]
+    },
+    "remapShortcuts": {
+        "appSpecific": [
+        ],
+        "global": [
+            {
+                "newRemapKeys": "17;65",
+                "operationType": 0,
+                "originalKeys": "17;65",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;66",
+                "operationType": 0,
+                "originalKeys": "17;88",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;67",
+                "operationType": 0,
+                "originalKeys": "17;74",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;68",
+                "operationType": 0,
+                "originalKeys": "17;69",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;69",
+                "operationType": 0,
+                "originalKeys": "17;190",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;70",
+                "operationType": 0,
+                "originalKeys": "17;85",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;71",
+                "operationType": 0,
+                "originalKeys": "17;73",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;72",
+                "operationType": 0,
+                "originalKeys": "17;68",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;73",
+                "operationType": 0,
+                "originalKeys": "17;67",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;74",
+                "operationType": 0,
+                "originalKeys": "17;72",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;75",
+                "operationType": 0,
+                "originalKeys": "17;84",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;76",
+                "operationType": 0,
+                "originalKeys": "17;78",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;77",
+                "operationType": 0,
+                "originalKeys": "17;77",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;78",
+                "operationType": 0,
+                "originalKeys": "17;66",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;79",
+                "operationType": 0,
+                "originalKeys": "17;82",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;80",
+                "operationType": 0,
+                "originalKeys": "17;76",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;81",
+                "operationType": 0,
+                "originalKeys": "17;222",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;82",
+                "operationType": 0,
+                "originalKeys": "17;80",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;83",
+                "operationType": 0,
+                "originalKeys": "17;79",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;84",
+                "operationType": 0,
+                "originalKeys": "17;89",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;85",
+                "operationType": 0,
+                "originalKeys": "17;71",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;86",
+                "operationType": 0,
+                "originalKeys": "17;75",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;87",
+                "operationType": 0,
+                "originalKeys": "17;188",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;88",
+                "operationType": 0,
+                "originalKeys": "17;81",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;89",
+                "operationType": 0,
+                "originalKeys": "17;70",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;90",
+                "operationType": 0,
+                "originalKeys": "17;186",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;186",
+                "operationType": 0,
+                "originalKeys": "17;83",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;187",
+                "operationType": 0,
+                "originalKeys": "17;221",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;188",
+                "operationType": 0,
+                "originalKeys": "17;87",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;221",
+                "operationType": 0,
+                "originalKeys": "17;187",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;222",
+                "operationType": 0,
+                "originalKeys": "17;189",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;189",
+                "operationType": 0,
+                "originalKeys": "17;219",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;190",
+                "operationType": 0,
+                "originalKeys": "17;86",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;191",
+                "operationType": 0,
+                "originalKeys": "17;90",
+                "secondKeyOfChord": 0
+            },
+            {
+                "newRemapKeys": "17;219",
+                "operationType": 0,
+                "originalKeys": "17;191",
+                "secondKeyOfChord": 0
+            }
+        ]
+    },
+    "remapShortcutsToText": {
+        "appSpecific": [
+        ],
+        "global": [
+        ]
+    }
+}
