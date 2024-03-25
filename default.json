@@ -84,12 +84,6 @@
                 "secondKeyOfChord": 0
             },
             {
-                "newRemapKeys": "17;77",
-                "operationType": 0,
-                "originalKeys": "17;77",
-                "secondKeyOfChord": 0
-            },
-            {
                 "newRemapKeys": "17;78",
                 "operationType": 0,
                 "originalKeys": "17;66",
